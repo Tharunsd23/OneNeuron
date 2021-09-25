@@ -1,5 +1,9 @@
 # Perceptron
+"""
+author: Tharun
+email: tharunsd23@gmail.com
 
+"""
 ## Python
 ``` Python
 def main(data,eta, epochs,filename):
