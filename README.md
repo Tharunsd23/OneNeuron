@@ -17,4 +17,6 @@ def main(data,eta, epochs,filename):
     save_model(model,filename)
     save_plot(df,"and.png",model)
 ```
-
+```bash
+git add . && git commit -m "docstring updated" && git push origin master
+```
