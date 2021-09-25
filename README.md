@@ -35,7 +35,7 @@ git add . && git commit -m "docstring updated" && git push origin master
 ## Dataset
 x1 | x2 | y
 -|-|-
-0 0 0
-0 1 0
-1 0 0 
-1 1 1
+0|0|0
+0|1|0
+1|0|0 
+1|1|1
