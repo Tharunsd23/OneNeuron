@@ -7,6 +7,14 @@ plt.style.use("fivethirtyeight")
 import os 
 
 def prepare_data(df):
+  """ It is used to separate dependent variables and independent features
+
+  Args:
+      df (pd.DataFrame): it is pandas Dataframe
+
+  Returns:
+      tupple: it returns the tuples of  dependent and independent variables
+  """
   X= df.drop("y", axis=1)
   y= df["y"]
 
