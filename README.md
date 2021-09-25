@@ -30,3 +30,12 @@ git add . && git commit -m "docstring updated" && git push origin master
 ![sample Image](plots/and.png)
 ## OR
 <img src="plots/or.png" alt="or.png" width="500" height="500">
+
+
+## Dataset
+x1 | x2 | y
+-|-|-|
+0 0 0
+0 1 0
+1 0 0 
+1 1 1
