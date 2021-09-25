@@ -26,3 +26,7 @@ def main(data,eta, epochs,filename):
 ```bash
 git add . && git commit -m "docstring updated" && git push origin master
 ```
+## Add image 
+![sample Image](plots/and.png)
+
+<img src="plots/or.png" alt="or.png" width="500" height="500">
